@@ -7,6 +7,15 @@ Drug script, contains only cocaine...
 - dpemotes
 - If you want the same coordinates as mine, download this: https://www.gta5-mods.com/maps/mlo-enhanced-coke-lab-sp-fivem-dvd6789
 
+# ITEMS
+- kokaiinilehti
+- koksulappu
+- labralupa
+- jatkettukoksu
+- pakattukokaiini
+- pakkaus
+- ruokasooda
+
 # FEATURES
 - Password system to get permission slips, but I forgot to make a note where the password is written, coming to the next update, what will I do.
 - Three action steps, you need to collect the cocaine leaves, you need to continue the cocaine ready for use, and finally package the cocaine.
