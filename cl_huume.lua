@@ -79,7 +79,9 @@ exports.ox_target:addModel(koksujatko, {
         name = 'koksunjatko',
         label = 'Jatka kokaiinia',
         icon = 'fa-solid fa-cannabis',
-        items = 'labralupa', 'ruokasooda', 'kokaiinilehti',
+        items = 'labralupa',
+        items = 'ruokasooda',
+        items = 'kokaiinilehti',
         onSelect = function()
             ExecuteCommand("e mechanic")
             if lib.progressCircle({
@@ -104,7 +106,9 @@ exports.ox_target:addModel(koksupakkaus, {
         name = 'koksunoakkaus',
         label = 'Pakkaa kokaiini',
         icon = 'fa-solid fa-cannabis',
-        items = 'labralupa', 'pakkaus', 'jatkettukoksu',
+        items = 'labralupa',
+        items = 'pakkaus',
+        items = 'jatkettukoksu',
         onSelect = function()
             ExecuteCommand("e mechanic")
             if lib.progressCircle({
